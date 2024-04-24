@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "image": "https://kristineskitchenblog.com/wp-content/uploads/2023/03/turkey-meatloaf-recipe-12-500x500.jpg",
+        "title": "Meat Loaf",
+        "diet": "Meat",
+        "descr": "To make a classic meatloaf, preheat your oven to 350°F (175°C). In a large mixing bowl, combine 1.5 pounds of ground beef, 1 cup of breadcrumbs, 1/2 cup of milk, 2 beaten eggs, 1/4 cup of finely chopped onion, 2 minced garlic cloves, 1 teaspoon of salt, 1/2 teaspoon of black pepper, and 1/4 cup of ketchup or barbecue sauce. Mix everything together thoroughly but avoid overmixing to keep the meatloaf tender. Transfer the mixture to a greased loaf pan, shaping it into a loaf shape. Spread an additional 1/4 cup of ketchup or barbecue sauce over the top. Bake in the preheated oven for 45-55 minutes or until the meatloaf is cooked through and reaches an internal temperature of 160°F (71°C). Let the meatloaf rest for a few minutes before slicing and serving. Enjoy your classic, comforting meatloaf with mashed potatoes and green beans for a hearty meal!"
+    },
+    {
+        "id": 2,
+        "image": "https://www.twopeasandtheirpod.com/wp-content/uploads/2019/06/Easy-Green-Salad-4.jpg",
+        "title": "Green Salad",
+        "diet": "Vegan",
+        "descr": "For a refreshing green salad, start by washing and drying a mix of fresh salad greens, such as lettuce, spinach, and arugula. Chop them into bite-sized pieces and place them in a large mixing bowl. Add sliced cucumber, cherry tomatoes, thinly sliced red onion, and any other veggies you like, such as bell peppers or carrots. For added flavor and texture, toss in some toasted nuts or seeds, like almonds or sunflower seeds. In a small jar, combine olive oil, lemon juice, Dijon mustard, salt, and pepper, then shake well to emulsify the dressing. Drizzle the dressing over the salad and toss everything together to coat evenly. Serve your green salad immediately as a refreshing and nutritious side dish or add grilled chicken or tofu for a complete meal. Enjoy!"
+    },
+    {
+        "id": 3,
+        "image": "https://static.toiimg.com/thumb/53316339.cms?imgsize=228105&width=800&height=800",
+        "title": "Chocolate Mousse",
+        "diet": "Dessert",
+        "descr": "To make a simple chocolate mousse, start by melting 200g of dark chocolate (at least 70% cocoa) in a heatproof bowl over a pot of simmering water or in the microwave, stirring until smooth. Set aside to cool slightly. In a separate mixing bowl, whip 400ml of cold heavy cream with 2-3 tablespoons of powdered sugar using a hand mixer or stand mixer on medium-high speed until stiff peaks form. Gently fold the melted chocolate into the whipped cream using a spatula, followed by 1 teaspoon of vanilla extract, until well combined. Transfer the chocolate mousse mixture into serving bowls or glasses, cover with plastic wrap, and refrigerate for at least 2-3 hours, or until set. Before serving, garnish with chocolate shavings or a dusting of cocoa powder if desired. Enjoy your creamy and chocolaty homemade chocolate mousse!"
+    },
+    {
+        "id": 4,
+        "image": "https://thealmondeater.com/wp-content/uploads/2021/04/Pineapple-Tofu-Coconut-Rice-Bowl-1-6.jpg",
+        "title": "Coconut Rice Bowl",
+        "diet": "Vegan",
+        "descr": "To make a delicious coconut rice bowl, start by rinsing 1 cup of jasmine or basmati rice under cold water until the water runs clear. In a saucepan, combine the rinsed rice with 1 cup of coconut milk and 1 cup of water. Bring the mixture to a boil, then reduce the heat to low, cover, and simmer for 15-20 minutes, or until the rice is tender and the liquid is absorbed. While the rice is cooking, prepare your toppings. You can sauté some vegetables like bell peppers, carrots, and snap peas in a bit of oil until tender-crisp. For protein, grill or pan-sear some chicken, tofu, or shrimp seasoned with salt, pepper, and a pinch of curry powder. Once the rice is ready, fluff it with a fork and divide it among serving bowls. Top with the sautéed vegetables, your choice of protein, and garnish with fresh cilantro, sliced green onions, and a sprinkle of toasted coconut flakes. Drizzle with a bit of soy sauce or a squeeze of lime juice for added flavor. Enjoy your flavorful and satisfying coconut rice bowl!"
+    },
+    {
+        "id": 5,
+        "image": "https://www.saltandlavender.com/wp-content/uploads/2020/01/tomato-spinach-shrimp-pasta-1.jpg",
+        "title": "Shrimp Pasta",
+        "diet": "Seafood",
+        "descr": "Cook your favorite pasta until al dente. While it's cooking, sauté 1 pound of peeled shrimp in olive oil with salt, pepper, and a pinch of red pepper flakes until pink and opaque, about 3 minutes per side. Remove the shrimp and set aside. In the same pan, sauté minced garlic briefly, then add 1/2 cup of white wine or chicken broth and simmer for a minute. Return the shrimp to the pan, add the cooked pasta, and toss everything together. Finish with a squeeze of lemon juice, chopped parsley, and grated Parmesan cheese. Serve hot and enjoy!"
+    }
+]

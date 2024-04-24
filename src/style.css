@@ -1,0 +1,86 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+.templateContainer{
+    margin: 5% 0;
+}
+.templateContainer > .searchInput_Container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+.templateContainer > .searchInput_Container input{
+    width: 30%;
+    padding: 10px;
+    outline: none;
+}
+.templateContainer .template_Container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+.templateContainer .template_Container .template{
+    background-color: white;
+    margin: 30px;
+    padding: 0px 20px;
+    width: 80%;
+}
+.templateContainer .template_Container .template img{
+    height: 300px;
+    width: 300px;
+    margin-left: 150px;
+}
+@media screen and (max-width: 800px) {
+    .leftcolumn, .rightcolumn {
+      width: 100%;
+      padding: 0;
+    }
+}
+.filterButtons {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  .filterButton {
+    margin: 0 10px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #007bff;
+    color: white;
+    transition: background-color 0.3s ease;
+  }
+  
+  .filterButton:hover {
+    background-color: #0056b3;
+  }
+  
+  .filterButton.active {
+    background-color: #0056b3;
+  }
+  
+.templateContainer .template_Container .template button {
+    margin-top: 10px;
+    padding: 8px 12px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #28a745;
+    color: white;
+    transition: background-color 0.3s ease;
+  }
+  
+  .templateContainer .template_Container .template button:hover {
+    background-color: #218838;
+  }
+  
+  .templateContainer .template_Container .template button:active {
+    background-color: #1e7e34;
+  }
+  
+  
